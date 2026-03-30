@@ -1,0 +1,27 @@
+/* comentario */
+p, ol { font-family: Arial;
+    font-weight: bold; }
+body { background-color: lightblue; }
+
+table, td, th { 
+    border: 1px dotted black;
+    background-color: aquamarine;
+}
+
+table {
+    border-style: solid;
+}
+
+/* para seleccionar objetos */
+.rojo { color: red;}
+
+.enmarcado {
+    border: 2px solid green;
+    border-radius: 4px;
+    font-size: larger;
+    color: darkgreen;
+}
+/* no se aplica aun class sino que un atributo id, 
+son importantes para programar con java, pasa a ser un nombre de variable, 
+tiene que ser unico por archivo */
+#principal { font-variant: small-caps; } 
