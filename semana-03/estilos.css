@@ -7,4 +7,21 @@ p {
     padding: 5px;
     margin: 30px;
     background-color: beige;
+    display: inline-block;
+    position: relative;
+}
+
+#parrafo1 {
+    width: 30%;
+
+}
+
+#parrafo2 {
+    width: 150px;
+
+}
+
+#parrafo3 {
+    width: 20%;
+
 }
